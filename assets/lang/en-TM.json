@@ -1,0 +1,43 @@
+{
+  "language": "Dil",
+  "currency": "Walýuta",
+  "convert": "Öwürmek",
+  "copy_to_clipboard": "Ýatda saklamak",
+  "paste_from_clipboard": "Ýatdan almak",
+  "enter_your_money_hint": "Ýokarky tekst meýdanyna puluňyzy giriziň",
+  "mass_convert": {
+    "title": "Köpçülikleýin öwürmek",
+    "separator_character": "Aýryjy nyşan:",
+    "semicolon": "nokatly otur",
+    "comma": "otur",
+    "space": "boşluk"
+  },
+  "text_copied": "Tekst ýat tutuldy",
+  "single": {
+    "ruble": "rubl",
+    "kopeck": "köpük",
+    "manat": "manat",
+    "tenge": "teňňe",
+    "dollar": "dollar",
+    "cent": "sent",
+    "euro": "ewro",
+    "hryvnia": "griwniýa",
+    "kopiyka": "kopiýka"
+  },
+  "plural": {
+    "rubles": "rubl",
+    "rubles1": "rubl",
+    "kopecks": "köpük",
+    "kopecks1": "köpük",
+    "dollars": "dollar",
+    "dollars1": "dollar",
+    "manats": "manat",
+    "cents": "sent",
+    "cents1": "sent",
+    "euro": "ewro",
+    "hryvni": "griwni",
+    "hryven": "griwen",
+    "kopiyky": "kopiýki",
+    "kopiyok ": "kopiýok"
+  }
+}

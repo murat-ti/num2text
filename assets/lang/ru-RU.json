@@ -1,0 +1,43 @@
+{
+  "language": "Язык",
+  "currency": "Валюта",
+  "convert": "Конвертировать",
+  "copy_to_clipboard": "Копировать в буфер обмена",
+  "paste_from_clipboard": "Вставить из буфера обмена",
+  "enter_your_money_hint": "Введите сумму денег в верхнее поле",
+  "mass_convert": {
+    "title": "Массовая конвертация",
+    "separator_character": "Символ-разделитель:",
+    "semicolon": "точка с запятой",
+    "comma": "запятая",
+    "space": "пробел"
+  },
+  "text_copied": "Текст скопирован в буфер обмена",
+  "single": {
+    "ruble": "рубль",
+    "kopeck": "копейка",
+    "manat": "манат",
+    "tenge": "тенге",
+    "dollar": "доллар",
+    "cent": "цент",
+    "euro": "евро",
+    "hryvnia": "гривна",
+    "kopiyka": "копейка"
+  },
+  "plural": {
+    "rubles": "рубля",
+    "rubles1": "рублей",
+    "kopecks": "копейки",
+    "kopecks1": "копеек",
+    "dollars": "доллара",
+    "dollars1": "долларов",
+    "manats": "маната",
+    "cents": "цента",
+    "cents1": "центов",
+    "euro": "евро",
+    "hryvni": "гривны",
+    "hryven": "гривен",
+    "kopiyky": "копейки",
+    "kopiyok ": "копеек"
+  }
+}

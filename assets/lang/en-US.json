@@ -1,0 +1,43 @@
+{
+  "language": "Language",
+  "currency": "Currency",
+  "convert": "Convert",
+  "copy_to_clipboard": "Copy to Clipboard",
+  "paste_from_clipboard": "Paste from Clipboard",
+  "enter_your_money_hint": "Enter your money amount to top text field",
+  "mass_convert": {
+    "title": "Mass convert",
+    "separator_character": "Separator character:",
+    "semicolon": "semicolon",
+    "comma": "comma",
+    "space": "space"
+  },
+  "text_copied": "Text copied to Clipboard",
+  "single": {
+    "ruble": "ruble",
+    "kopeck": "kopeck",
+    "manat": "manat",
+    "tenge": "tenge",
+    "dollar": "dollar",
+    "cent": "cent",
+    "euro": "euro",
+    "hryvnia": "hryvnia",
+    "kopiyka": "kopiyka"
+  },
+  "plural": {
+    "rubles": "rubles",
+    "rubles1": "rubles",
+    "kopecks": "kopecks",
+    "kopecks1": "kopecks",
+    "dollars": "dollars",
+    "dollars1": "dollars",
+    "manats": "manat",
+    "cents": "cents",
+    "cents1": "cents",
+    "euro": "euro",
+    "hryvni": "hryvni",
+    "hryven": "hryven",
+    "kopiyky": "kopiyky",
+    "kopiyok ": "kopiyok"
+  }
+}
